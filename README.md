@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AbdaalHassan
-- 👀 I’m working in MERN stack
-- 🌱 I’m currently learning blockchian
+- 👀 I’m working in python
+- 🌱 I’m currently devops
 - 📫 How to reach me ? i put my twitter handle @abdaalchaudhry
