@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @AbdaalHassan
-- 👀 I’m working in python
-- 🌱 I’m currently learning devops
-- 📫 How to reach me ? twitter handle @abdaalchaudhry
