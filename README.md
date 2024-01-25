@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Abdaal Hassan, a graduate from the University 
 - 🎓 Graduated from the University of Gujrat (UOG)
 - 💼 Fullstack Developer at CodeTuple
 - 🌐 [Portfolio Website](https://www.example.com)
-- 📧 Contact me at [abdaal@example.com](mailto:abdaal@example.com)
+- 📧 Contact me at [abdaalcss@gmail.com](mailto:abdaal@example.com)
 
 ## Skills
 
