@@ -15,16 +15,25 @@ Welcome to my GitHub profile! I'm Abdaal Hassan, a graduate from the University 
 
 - Python (Django)
 - Node.js
+- Express.js
+- Nest.js
 
 ### Frontend
 
-- JavaScript (React)
+- JavaScript
+- React
+- Next.js
+- Vue.js
+- Nuxt.js
 - Redux
 - TypeScript
 
 ### Database
 
 - PostgreSQL
+- SQL
+- MySql
+- Mongoodb
 - TypeORM
 
 ## Projects
