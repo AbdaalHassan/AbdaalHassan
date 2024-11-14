@@ -1,6 +1,6 @@
 # Abdaal Hassan - Fullstack Developer
 
-Welcome to my GitHub profile! I'm Abdaal Hassan, a graduate from the University of Gujrat (UOG), currently working as a Fullstack Developer at CodeTuple. I specialize in building web applications with a focus on node (express.js) for backend development and JavaScript (React & Vue.js) for frontend development.
+Welcome to my GitHub profile! I'm Abdaal Hassan, a graduate from the University of Gujrat (UOG), currently working as a Fullstack Developer at webBugs. I specialize in building web applications with a focus on node (express.js) for backend development and JavaScript (React & Vue.js) for frontend development.
 
 ## About Me
 
