@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm Abdaal Hassan, a graduate from the University 
 
 - 🎓 Graduated from the University of Gujrat (UOG)
 - 💼 Fullstack Developer at CodeTuple
-- 🌐 [Portfolio Website](https://www.example.com)
 - 📧 Contact me at [abdaalcss@gmail.com](mailto:abdaal@example.com)
 
 ## Skills
@@ -35,18 +34,6 @@ Welcome to my GitHub profile! I'm Abdaal Hassan, a graduate from the University 
 - MySql
 - Mongoodb
 - TypeORM
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-1. [Project Name 1](https://github.com/yourusername/project-name-1)
-   - Description: Briefly describe the project.
-   - Technologies: List the technologies used.
-
-2. [Project Name 2](https://github.com/yourusername/project-name-2)
-   - Description: Briefly describe the project.
-   - Technologies: List the technologies used.
 
 ## Connect with Me
 
